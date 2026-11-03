@@ -1,0 +1,4 @@
+Ma sinh vien: SV004_102204
+Ho ten: Nguyen Van A
+Lop: CNTT01
+Khoa: Cong nghe thong tin
